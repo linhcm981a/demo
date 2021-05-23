@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "script": "npm",
-    "start": "npm start"
+    "start:dev": "nodemon index.js"
   },
   "eslintConfig": {
     "extends": "react-app"
